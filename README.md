@@ -19,13 +19,18 @@ Below are links to starting pages of various types and flavors of generated docu
 ### IGLib Documentation
 
 * [**IGLib core documentation**](Doc/IGLib/html/index.html)
-  *  [index](Doc/IGLib/html/index.html), [class list](Doc/IGLib/html/annotated.html), [class hierarchy](Doc/IGLib/html/hierarchy.html) ([graphical hierarchy](Doc/IGLib/html/inherits.html)), [namespace list](Doc/IGLib/html/namespaces.html), [file list](Doc/IGLib/html/files.html)
+  * [index](Doc/IGLib/html/index.html), [class list](Doc/IGLib/html/annotated.html), [class hierarchy](Doc/IGLib/html/hierarchy.html) ([graphical hierarchy](Doc/IGLib/html/inherits.html)), [namespace list](Doc/IGLib/html/namespaces.html), [file list](Doc/IGLib/html/files.html)
+
 * [**All** relevant IGLib-related code](Doc/IGLibAll/html/index.html)
-  *  [index](/html/index.html), [class list](/html/annotated.html), [class hierarchy](/html/hierarchy.html) ([graphical hierarchy](/html/inherits.html)), [namespace list](/html/namespaces.html), [file list](/html/files.html)
+  * [index](Doc/IGLibAll/html/index.html), [class list](Doc/IGLibAll/html/annotated.html), [class hierarchy](Doc/IGLibAll/html/hierarchy.html) ([graphical hierarchy](Doc/IGLibAll/html/inherits.html)), [namespace list](Doc/IGLibAll/html/namespaces.html), [file list](Doc/IGLibAll/html/files.html)
+
 * [IGLib core documentation **with source code**](DocWithSources/IGLibWithSources/html/index.html)
-  *  [index](/html/index.html), [class list](/html/annotated.html), [class hierarchy](/html/hierarchy.html) ([graphical hierarchy](/html/inherits.html)), [namespace list](/html/namespaces.html), [file list](/html/files.html)
+  * [index](DocWithSources/IGLibWithSources/html/index.html), [class list](DocWithSources/IGLibWithSources/html/annotated.html), [class hierarchy](DocWithSources/IGLibWithSources/html/hierarchy.html) ([graphical hierarchy](DocWithSources/IGLibWithSources/html/inherits.html)), [namespace list](DocWithSources/IGLibWithSources/html/namespaces.html), [file list](DocWithSources/IGLibWithSources/html/files.html)
+
+
+
 * [**All** relevant IGLib-related code **with source code**](DocWithSources/IGLibAllWithSources/html/index.html)
-  *  [index](/html/index.html), [class list](/html/annotated.html), [class hierarchy](/html/hierarchy.html) ([graphical hierarchy](/html/inherits.html)), [namespace list](/html/namespaces.html), [file list](/html/files.html)
+  * [index](DocWithSources/IGLibAllWithSources/html/index.html), [class list](DocWithSources/IGLibAllWithSources/html/annotated.html), [class hierarchy](DocWithSources/IGLibAllWithSources/html/hierarchy.html) ([graphical hierarchy](DocWithSources/IGLibAllWithSources/html/inherits.html)), [namespace list](DocWithSources/IGLibAllWithSources/html/namespaces.html), [file list](DocWithSources/IGLibAllWithSources/html/files.html)
 
 ## Using the Repository
 
