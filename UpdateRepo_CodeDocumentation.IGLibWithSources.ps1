@@ -35,7 +35,7 @@ $global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGL
 $global:CurrentRepo_Remote = "origin"
 $global:CurrentRepo_AddressSecondary = $null
 $global:CurrentRepo_RemoteSecondary = "remodeSecondary"
-$global:CurrentRepo_AddressTertiary = "d:\backup_sync\bk_code\git\ig\doc\CodeDocumentation.IGLibWithSources.git"
+$global:CurrentRepo_AddressTertiary = $null
 $global:CurrentRepo_RemoteTertiary = "local"
 $global:CurrentRepo_ThrowOnErrors = $false
 
