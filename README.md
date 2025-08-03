@@ -14,7 +14,7 @@ Below are links to starting pages of various types and flavors of generated docu
 
 #### New IGLib Documentation
 
-The documentation below can be viewed after the code documentation repositories are cloned locally within this container repository (run the `UpdateRepoGroup_IGLibCodeDocumentation.ps1` script to do that) and this file is open in a browser with markdown viewing addons.
+The documentation below can be **viewed locally after the code documentation repositories are cloned** locally within this container repository (run the `UpdateRepoGroup_IGLibCodeDocumentation.ps1` script to do that) and this file is open in a browser with markdown viewing addons.
 
 * [**IGLib core documentation**](Doc/IGLib/html/index.html)
   * [index](Doc/IGLib/html/index.html), [class list](Doc/IGLib/html/annotated.html), [class hierarchy](Doc/IGLib/html/hierarchy.html) ([graphical hierarchy](Doc/IGLib/html/inherits.html)), [namespace list](Doc/IGLib/html/namespaces.html), [file list](Doc/IGLib/html/files.html)
