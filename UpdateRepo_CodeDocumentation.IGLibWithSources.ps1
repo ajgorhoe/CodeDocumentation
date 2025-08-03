@@ -31,9 +31,9 @@ $UpdatingScriptPath = "./UpdateOrCloneRepository.ps1"
 
 $global:CurrentRepo_Directory = "DocWithSources/IGLibWithSources"
 $global:CurrentRepo_Ref = "main"
-$global:CurrentRepo_Address = "d:/backup/bk_code/git/ig/doc/IGLibWithSources.git"
+$global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGLibWithSources.git"
 $global:CurrentRepo_Remote = "origin"
-$global:CurrentRepo_AddressSecondary = "https://github.com/ajgorhoe/CodeDocumentation.IGLibWithSources.git"
+$global:CurrentRepo_AddressSecondary = "d:/backup/bk_code/git/ig/doc/IGLibWithSources.git"
 $global:CurrentRepo_RemoteSecondary = "remoteSecondary"
 $global:CurrentRepo_AddressTertiary = $null
 $global:CurrentRepo_RemoteTertiary = "local"
