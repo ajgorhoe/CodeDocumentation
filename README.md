@@ -3,9 +3,6 @@
 
 ## About this Repository
 
-Copyright (c) Igor Grešovnik  
-See LICENSE.md at https://github.com/ajgorhoe/CodeDocumentation
-
 This repository is part of the [Investigative Generic Library (IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore/blob/main/README.md). It is a container repository that contains various types of generated code documentation for IGLib. In order to **view code documentation**, you need to **clone the containing repositories** by running the `UpdateRepoGroup_IGLibCodeDocumentation.ps1` PowerShell script.
 
 ## Generated Code Documentation
@@ -55,3 +52,9 @@ This clones the [`codedoc`](https://github.com/ajgorhoe/IGLib.workspace.doc.code
 * `generate_iglib_all_with_sources.ps1` - extended IGLib documentation with source code included
 
 The generated documentation can be browsed via the `code_documentation.html` omdex file. See the [codedoc readme](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc/blob/master/README.md) for more details.
+
+## License
+
+© Copyright Igor Grešovnik.
+
+See [LICENSE.md](https://github.com/ajgorhoe/CodeDocumentation/blob/main/LICENSE.md) ([local version](./LICENSE.md)) for license information.
