@@ -55,6 +55,6 @@ The generated documentation can be browsed via the `code_documentation.html` omd
 
 ## License
 
-© Copyright Igor Grešovnik.
+Copyright © Igor Grešovnik.
 
 See [LICENSE.md](https://github.com/ajgorhoe/CodeDocumentation/blob/main/LICENSE.md) ([local version](./LICENSE.md)) for license information.
