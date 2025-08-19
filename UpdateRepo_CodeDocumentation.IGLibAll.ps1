@@ -35,8 +35,8 @@ $global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGL
 $global:CurrentRepo_Remote = "origin"
 $global:CurrentRepo_AddressSecondary = "d:/backup/bk_code/git/ig/doc/IGLibAll.git"
 $global:CurrentRepo_RemoteSecondary = "remoteSecondary"
-$global:CurrentRepo_AddressTertiary = $null
-$global:CurrentRepo_RemoteTertiary = "local"
+$global:CurrentRepo_AddressTertiary = "https://gitlab.com/ajgorhoe/CodeDocumentation.IGLibAll"
+$global:CurrentRepo_RemoteTertiary = "remote_GitLab"
 $global:CurrentRepo_ThrowOnErrors = $false
 
 # End of custom section
